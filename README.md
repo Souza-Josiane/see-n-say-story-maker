@@ -24,7 +24,7 @@ This project is an interactive web game inspired by the classic Mattel See 'N Sa
 
 ## Credits
 
-Developed by Josiane Souza as part of a learning assignment.
+Developed by [**Josiane Souza**](https://www.linkedin.com/in/josianesouza/) as part of a learning assignment.
 
 ## License
 
